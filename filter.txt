@@ -1,0 +1,10 @@
+! Block everything
+^$document
+
+! Unblock some things
+@@||1.next.westlaw.com^$all
+@@||www.thomsonreuters.com^$all
+@@||signon.thomsonreuters.com^$all
+@@||app.clio.com^$all
+@@||account.clio.com^$all
+@@||www.clio.com^$all
